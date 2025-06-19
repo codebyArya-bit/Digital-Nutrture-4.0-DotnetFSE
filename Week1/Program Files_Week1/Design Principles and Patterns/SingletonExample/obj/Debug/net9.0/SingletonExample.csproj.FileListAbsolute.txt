@@ -1,0 +1,28 @@
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\bin\Debug\net9.0\SingletonExample.exe
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\bin\Debug\net9.0\SingletonExample.deps.json
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\bin\Debug\net9.0\SingletonExample.runtimeconfig.json
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\bin\Debug\net9.0\SingletonExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\bin\Debug\net9.0\SingletonExample.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.AssemblyInfoInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.AssemblyInfo.cs
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.csproj.CoreCompileInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\refint\SingletonExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.genruntimeconfig.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\ref\SingletonExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\bin\Debug\net9.0\SingletonExample.exe
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\bin\Debug\net9.0\SingletonExample.deps.json
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\bin\Debug\net9.0\SingletonExample.runtimeconfig.json
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\bin\Debug\net9.0\SingletonExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\bin\Debug\net9.0\SingletonExample.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.AssemblyInfoInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.AssemblyInfo.cs
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.csproj.CoreCompileInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\refint\SingletonExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\SingletonExample.genruntimeconfig.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\SingletonExample\obj\Debug\net9.0\ref\SingletonExample.dll

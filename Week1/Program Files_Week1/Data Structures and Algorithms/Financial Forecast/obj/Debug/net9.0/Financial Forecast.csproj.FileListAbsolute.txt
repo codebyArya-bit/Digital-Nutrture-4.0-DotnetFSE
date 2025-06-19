@@ -1,0 +1,28 @@
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\bin\Debug\net9.0\Financial Forecast.exe
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\bin\Debug\net9.0\Financial Forecast.deps.json
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\bin\Debug\net9.0\Financial Forecast.runtimeconfig.json
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\bin\Debug\net9.0\Financial Forecast.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\bin\Debug\net9.0\Financial Forecast.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.AssemblyInfoInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.AssemblyInfo.cs
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.csproj.CoreCompileInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\refint\Financial Forecast.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.genruntimeconfig.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\ref\Financial Forecast.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\bin\Debug\net9.0\Financial Forecast.exe
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\bin\Debug\net9.0\Financial Forecast.deps.json
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\bin\Debug\net9.0\Financial Forecast.runtimeconfig.json
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\bin\Debug\net9.0\Financial Forecast.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\bin\Debug\net9.0\Financial Forecast.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.AssemblyInfoInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.AssemblyInfo.cs
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.csproj.CoreCompileInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\refint\Financial Forecast.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\Financial Forecast.genruntimeconfig.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\Financial Forecast\obj\Debug\net9.0\ref\Financial Forecast.dll

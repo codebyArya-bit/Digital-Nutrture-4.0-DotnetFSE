@@ -1,0 +1,28 @@
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\bin\Debug\net9.0\FactoryPatternExample.exe
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\bin\Debug\net9.0\FactoryPatternExample.deps.json
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\bin\Debug\net9.0\FactoryPatternExample.runtimeconfig.json
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\bin\Debug\net9.0\FactoryPatternExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\bin\Debug\net9.0\FactoryPatternExample.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.AssemblyInfoInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.AssemblyInfo.cs
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\refint\FactoryPatternExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.genruntimeconfig.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\ref\FactoryPatternExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\bin\Debug\net9.0\FactoryPatternExample.exe
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\bin\Debug\net9.0\FactoryPatternExample.deps.json
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\bin\Debug\net9.0\FactoryPatternExample.runtimeconfig.json
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\bin\Debug\net9.0\FactoryPatternExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\bin\Debug\net9.0\FactoryPatternExample.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.AssemblyInfoInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.AssemblyInfo.cs
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\refint\FactoryPatternExample.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\FactoryPatternExample.genruntimeconfig.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Design Principles and Patterns\FactoryPatternExample\obj\Debug\net9.0\ref\FactoryPatternExample.dll

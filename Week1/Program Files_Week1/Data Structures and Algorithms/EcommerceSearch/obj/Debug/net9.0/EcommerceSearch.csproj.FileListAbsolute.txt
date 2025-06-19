@@ -1,0 +1,28 @@
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\bin\Debug\net9.0\EcommerceSearch.exe
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\bin\Debug\net9.0\EcommerceSearch.deps.json
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\bin\Debug\net9.0\EcommerceSearch.runtimeconfig.json
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\bin\Debug\net9.0\EcommerceSearch.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\bin\Debug\net9.0\EcommerceSearch.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.AssemblyInfoInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.AssemblyInfo.cs
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.csproj.CoreCompileInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\refint\EcommerceSearch.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.genruntimeconfig.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Program Files\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\ref\EcommerceSearch.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\bin\Debug\net9.0\EcommerceSearch.exe
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\bin\Debug\net9.0\EcommerceSearch.deps.json
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\bin\Debug\net9.0\EcommerceSearch.runtimeconfig.json
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\bin\Debug\net9.0\EcommerceSearch.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\bin\Debug\net9.0\EcommerceSearch.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.AssemblyInfoInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.AssemblyInfo.cs
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.csproj.CoreCompileInputs.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\refint\EcommerceSearch.dll
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.pdb
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\EcommerceSearch.genruntimeconfig.cache
+C:\Users\Oppen\Desktop\Cognizant C#\Week 1\Program Files_Week1\Data Structures and Algorithms\EcommerceSearch\obj\Debug\net9.0\ref\EcommerceSearch.dll
