@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ub78DLSQf7Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oppen\\Desktop\\Cognizant C#\\Week2\\Program_Files\\NUnit-Handson\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oppen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Oppen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
