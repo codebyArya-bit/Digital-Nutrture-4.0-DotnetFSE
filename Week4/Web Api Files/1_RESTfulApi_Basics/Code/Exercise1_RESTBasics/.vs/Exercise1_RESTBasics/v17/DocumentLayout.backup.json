@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oppen\\Desktop\\Cognizant C#\\Week4\\Web Api Files\\1_RESTfulApi_Basics\\Code\\Exercise1_RESTBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{374540D3-8A60-4447-82C5-D183F1D84D6D}|Exercise1_RESTBasics\\Exercise1_RESTBasics.csproj|c:\\users\\oppen\\desktop\\cognizant c#\\week4\\web api files\\1_restfulapi_basics\\code\\exercise1_restbasics\\exercise1_restbasics\\exercise1_restbasics.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{374540D3-8A60-4447-82C5-D183F1D84D6D}|Exercise1_RESTBasics\\Exercise1_RESTBasics.csproj|solutionrelative:exercise1_restbasics\\exercise1_restbasics.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374540D3-8A60-4447-82C5-D183F1D84D6D}|Exercise1_RESTBasics\\Exercise1_RESTBasics.csproj|c:\\users\\oppen\\desktop\\cognizant c#\\week4\\web api files\\1_restfulapi_basics\\code\\exercise1_restbasics\\exercise1_restbasics\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374540D3-8A60-4447-82C5-D183F1D84D6D}|Exercise1_RESTBasics\\Exercise1_RESTBasics.csproj|solutionrelative:exercise1_restbasics\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374540D3-8A60-4447-82C5-D183F1D84D6D}|Exercise1_RESTBasics\\Exercise1_RESTBasics.csproj|c:\\users\\oppen\\desktop\\cognizant c#\\week4\\web api files\\1_restfulapi_basics\\code\\exercise1_restbasics\\exercise1_restbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374540D3-8A60-4447-82C5-D183F1D84D6D}|Exercise1_RESTBasics\\Exercise1_RESTBasics.csproj|solutionrelative:exercise1_restbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise1_RESTBasics.http",
+              "DocumentMoniker": "C:\\Users\\Oppen\\Desktop\\Cognizant C#\\Week4\\Web Api Files\\1_RESTfulApi_Basics\\Code\\Exercise1_RESTBasics\\Exercise1_RESTBasics\\Exercise1_RESTBasics.http",
+              "RelativeDocumentMoniker": "Exercise1_RESTBasics\\Exercise1_RESTBasics.http",
+              "ToolTip": "C:\\Users\\Oppen\\Desktop\\Cognizant C#\\Week4\\Web Api Files\\1_RESTfulApi_Basics\\Code\\Exercise1_RESTBasics\\Exercise1_RESTBasics\\Exercise1_RESTBasics.http",
+              "RelativeToolTip": "Exercise1_RESTBasics\\Exercise1_RESTBasics.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-12T11:19:44.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Oppen\\Desktop\\Cognizant C#\\Week4\\Web Api Files\\1_RESTfulApi_Basics\\Code\\Exercise1_RESTBasics\\Exercise1_RESTBasics\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Exercise1_RESTBasics\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Oppen\\Desktop\\Cognizant C#\\Week4\\Web Api Files\\1_RESTfulApi_Basics\\Code\\Exercise1_RESTBasics\\Exercise1_RESTBasics\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Exercise1_RESTBasics\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:26:17.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oppen\\Desktop\\Cognizant C#\\Week4\\Web Api Files\\1_RESTfulApi_Basics\\Code\\Exercise1_RESTBasics\\Exercise1_RESTBasics\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise1_RESTBasics\\Program.cs",
+              "ToolTip": "C:\\Users\\Oppen\\Desktop\\Cognizant C#\\Week4\\Web Api Files\\1_RESTfulApi_Basics\\Code\\Exercise1_RESTBasics\\Exercise1_RESTBasics\\Program.cs",
+              "RelativeToolTip": "Exercise1_RESTBasics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:24:11.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

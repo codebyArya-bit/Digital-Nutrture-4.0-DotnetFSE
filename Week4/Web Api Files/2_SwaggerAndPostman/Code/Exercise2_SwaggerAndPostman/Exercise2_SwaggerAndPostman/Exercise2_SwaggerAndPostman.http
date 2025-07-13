@@ -1,0 +1,6 @@
+@Exercise2_SwaggerAndPostman_HostAddress = http://localhost:5231
+
+GET {{Exercise2_SwaggerAndPostman_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

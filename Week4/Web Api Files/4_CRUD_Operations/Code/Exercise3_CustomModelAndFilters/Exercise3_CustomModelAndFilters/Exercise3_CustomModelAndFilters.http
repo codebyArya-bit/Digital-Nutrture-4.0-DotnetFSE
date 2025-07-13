@@ -1,0 +1,6 @@
+@Exercise3_CustomModelAndFilters_HostAddress = http://localhost:5218
+
+GET {{Exercise3_CustomModelAndFilters_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

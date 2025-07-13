@@ -1,0 +1,32 @@
+@Exercise1_RESTBasics_HostAddress = https://localhost:7277
+
+### Get all values
+GET {{Exercise1_RESTBasics_HostAddress}}/api/values
+
+###
+
+### Get a value by ID
+GET {{Exercise1_RESTBasics_HostAddress}}/api/values/5
+
+###
+
+### Create a value
+POST {{Exercise1_RESTBasics_HostAddress}}/api/values
+Content-Type: application/json
+
+"hello"
+
+###
+
+### Update a value
+PUT {{Exercise1_RESTBasics_HostAddress}}/api/values/5
+Content-Type: application/json
+
+"updated"
+
+###
+
+### Delete a value
+DELETE {{Exercise1_RESTBasics_HostAddress}}/api/values/5
+
+### 
