@@ -1,0 +1,16 @@
+/* src/App.css */
+
+.textRed {
+  color: red;
+}
+
+.textGreen {
+  color: green;
+}
+
+.office-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
